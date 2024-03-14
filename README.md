@@ -1,5 +1,16 @@
 # Optimizing-University-Research-Computing-Operations
 
+## Overview:
+
+In the bustling ecosystem of University research computing, efficiency is paramount. At the University of Rochester's Center for Integrated Research Computing (CIRC), the mission is to support the diverse computational needs of researchers across various disciplines. To streamline operations and enhance user experience, a project was initiated to leverage the prowess of data science.
+
+## The Challenge:
+
+With multiple high-performance computing clusters churning out vast volumes of log files, the small team at CIRC faced a Herculean task. Insights were needed to tackle high volume contention issues, minimize extensive wait times, mitigate failed jobs, and optimize downtime maintenance windows.
+
+## Approach:
+I spearheaded the efforts. My expertise in data science, along with programming skills, facilitated the analysis of log files and cluster scheduling data. By extracting patterns associated with contention issues, wait times, and failed jobs, the aim was to optimize operational processes.
+
 ## Key Achievements:
 Through data analysis, I identified optimal maintenance windows and improved resource allocation strategies. By quantifying patterns in the log files, I gained insights into system usage trends, facilitating informed decision-making for resource management. The project's success underscores the value of data-driven approaches in enhancing research computing operations.
 
